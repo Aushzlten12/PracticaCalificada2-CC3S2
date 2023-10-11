@@ -1,0 +1,9 @@
+[submodule "PC2-CC3S2"]
+	path = PC2-CC3S2
+	url = https://github.com/Aushzlten12/PC2-CC3S2
+[submodule "Patrones"]
+	path = Patrones
+	url = https://github.com/Aushzlten12/Patrones
+[submodule "ActiveRecord"]
+	path = ActiveRecord
+	url = https://github.com/Aushzlten12/ActiveRecord
